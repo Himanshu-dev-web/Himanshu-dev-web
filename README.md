@@ -22,23 +22,6 @@ Hi there! 👋 I'm passionate about creating delightful user experiences on the 
 
 [![Tools](https://skillicons.dev/icons?i=firebase,postman,vscode,vite,git,github,figma&perline=5)](https://skillicons.dev)
 
-### Fullstack Journey 🌐
-
-I'm on an exciting journey to become a fullstack developer. Currently, I'm diving into backend technologies, databases, and server-side development. Here's what I'm exploring:
-
-- **Backend Technologies:**  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-- **Databases:**   
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- **RESTful APIs:** Design and Implementation
-
-- **Server-side Development:**  
-  ![Routing](https://img.shields.io/badge/-Routing-000000?style=flat-square)
-  ![Middleware](https://img.shields.io/badge/-Middleware-000000?style=flat-square)
-
 
 ![Here's my github stats](https://github-readme-stats.vercel.app/api?username=Himanshu-dev-web)
 
