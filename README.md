@@ -20,7 +20,7 @@ Hi there! 👋 I'm passionate about creating delightful user experiences on the 
 
 #### Tools
 
-[![Tools](https://skillicons.dev/icons?i=firebase,postman,vscode,vite,md,git,github,figma&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=firebase,postman,vscode,vite,git,github,figma&perline=5)](https://skillicons.dev)
 
 ### Fullstack Journey 🌐
 
