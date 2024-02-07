@@ -5,7 +5,7 @@ Web Developer
 -------------
 ## 💻 Skills & Learning Focus
 
-Hi there! 👋 I'm passionate about creating delightful user experiences on the web. Here's a snapshot of my skills and what I'm currently exploring:
+Hi there! 👋 I'm passionate about creating delightful user experiences on the web.Currently on the lookout for exciting opportunities to contribute my skills and creativity to the world of web development. 🚀
 
 
 ### What I use
