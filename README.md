@@ -10,16 +10,18 @@ Hi there! 👋 I'm passionate about creating delightful user experiences on the 
 ### Frontend Development 🚀
 
 - **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Libraries & Frameworks:** React.js, Vue.js
-- **Styling:** Styled-components, SCSS
+- **Libraries & Frameworks:**   ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ,     ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
+
+- **Styling:** Tailwind Css,CSS3,MUI
 - **Version Control:** Git, GitHub
 
 ### Fullstack Journey 🌐
 
 I'm on an exciting journey to become a fullstack developer. Currently, I'm diving into backend technologies, databases, and server-side development. Here's what I'm exploring:
 
-- **Backend Technologies:** Node.js, Express.js
-- **Databases:** MongoDB, MySQL
+- **Backend Technologies:**  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node),   ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+
+- **Databases:**   ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=MongoDb)
 - **RESTful APIs:** Design and Implementation
 - **Server-side Development:** Routing, Middleware
 
@@ -35,17 +37,6 @@ I'm on an exciting journey to become a fullstack developer. Currently, I'm divin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-web&theme=radical)](https://github.com/Himanshu-dev-web/github-readme-stats)
 
-
-## 🛠 Tech Stack
-
-- **Frontend:** 
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-    ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
-
-
-- **Backend:**
-  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 
   
 
