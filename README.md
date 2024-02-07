@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Himanshu-dev-web/Himanshu-dev-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -61,12 +61,7 @@ Here are some ideas to get you started:
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post 1](https://your-blog.com/post1)
-- [Blog Post 2](https://your-blog.com/post2)
-<!-- BLOG-POST-LIST:END -->
 
----
 
 <p align="center">
   Thanks for visiting! Let's connect and collaborate. 😊
