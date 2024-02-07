@@ -22,28 +22,25 @@ Hi there! 👋 I'm passionate about creating delightful user experiences on the 
 
 [![Tools](https://skillicons.dev/icons?i=firebase,postman,vscode,vite,md,git,github,figma&perline=5)](https://skillicons.dev)
 
-![Here's my github stats](https://github-readme-stats.vercel.app/api?username=htutwaiphyoe)
-
-
 ### Fullstack Journey 🌐
 
 I'm on an exciting journey to become a fullstack developer. Currently, I'm diving into backend technologies, databases, and server-side development. Here's what I'm exploring:
 
-- **Backend Technologies:**  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node),   ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+- **Backend Technologies:**  
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-- **Databases:**   ![MongoDB](https://img.shields.io/badge/-Mongodb-black?style=flat-square&logo=MongoDb)
+- **Databases:**   
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 - **RESTful APIs:** Design and Implementation
-- **Server-side Development:** Routing, Middleware
+
+- **Server-side Development:**  
+  ![Routing](https://img.shields.io/badge/-Routing-000000?style=flat-square)
+  ![Middleware](https://img.shields.io/badge/-Middleware-000000?style=flat-square)
 
 
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Himanshu-dev-web&show_icons=true&theme=radical)        ![Loading Animation](https://media0.giphy.com/media/m6OomwWCojfS8/giphy.gif?cid=ecf05e47k578dhpegnsl5tgmwpp5d9m22ujpozqc3mu3thvr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu-dev-web&theme=radical)](https://github.com/Himanshu-dev-web/github-readme-stats)
-
-
-  
-
+![Here's my github stats](https://github-readme-stats.vercel.app/api?username=Himanshu-dev-web)
 
 ## 🌐 Connect with me:
 
